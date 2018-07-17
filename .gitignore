@@ -1,4 +1,4 @@
-# Built application files
+# Built application files Andorid
 *.apk
 *.ap_
 
@@ -16,6 +16,10 @@ out/
 # Gradle files
 .gradle/
 build/
+gradle/
+gradlew
+gradlew.bat
+gradle.properties
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -34,6 +38,7 @@ captures/
 
 # IntelliJ
 *.iml
+.idea
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -63,3 +68,9 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+
+# node
+node_modules
+node_modules/
+package-lock.json
